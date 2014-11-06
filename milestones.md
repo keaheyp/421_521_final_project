@@ -1,9 +1,12 @@
 Mile stones for the RazzyFAB
 
-11/4/2014 -- Prototype Finished and submittedd to Jordan
+11/13/2014 -- Prototype due and submitted to Jordan
 
-11/13/2014 -- Final Design Due
+11/20/2014 -- Fit and finish due - aka "makin' it fancy"
 
-12/2/2014 -- Submit Final Code
+12/02/2014 -- Submit Final Code
+
+12/04/2014 -- Documentation due
 
 Pelham
+Sydney
